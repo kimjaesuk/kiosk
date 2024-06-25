@@ -4,7 +4,7 @@ import { ref } from 'vue';
 import ButtonHome from './ButtonHome.vue';
 // const router = useRouter();
 </script>
-
+  <!-- 결제 방법 장바구니 , 김재석  -->
 <template>
     <header class>
       <!-- 팝업이 떠도 안바뀌는 곳 -->
